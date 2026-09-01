@@ -133,7 +133,7 @@ Review rate number was classified under the room type (**Private_Room** and **En
 
 **The picture below shows the result of the entire cleaning and transformation process using power query in excel**
 
-![Box and whisker plot showing no outliers in review rate number](..........)
+![Box and whisker plot showing no outliers in review rate number](https://github.com/Emma-the-Analyst/Airbnb-Room-Type-Guest-Satisfaction-An-Independent-Samples-T-Test-Analysis/blob/main/IMAGES/cleaning%20and%20transformation%20.png?raw=true)
 
 **Outlier Check**
 Review rate number column was checked for outliers using a box and whisker plot. No outlier was observed.
