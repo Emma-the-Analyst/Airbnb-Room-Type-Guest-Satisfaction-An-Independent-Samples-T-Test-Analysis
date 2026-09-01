@@ -147,7 +147,7 @@ After the transformation, **Private room** category had 46,149 total rows while 
 
 > Note: '0' was not included in the sampling.
 
-![Sampling breakdown showing row counts per room type](..........)
+![Sampling breakdown showing row counts per room type](https://github.com/Emma-the-Analyst/Airbnb-Room-Type-Guest-Satisfaction-An-Independent-Samples-T-Test-Analysis/blob/main/IMAGES/sample.png?raw=true)
 
 ---
 
