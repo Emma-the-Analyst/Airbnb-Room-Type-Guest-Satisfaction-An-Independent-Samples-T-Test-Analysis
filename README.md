@@ -162,7 +162,7 @@ After the transformation, **Private room** category had 46,149 total rows while 
 
 ### b. Assumptions Considered (Normality of Samples)
 
-Both histograms show a sharp drop at rating 1 (approximately 4,125 for Private room and 4,159 for Entire home/apt), while ratings 2 through 5 display relatively balanced frequencies ranging from approximately 10,400 to 10,600, indicating approximately normal distributions with no severe skewness. Given the large sample size of 46,149 observations per group, the normality assumption is considered met for both groups, and proceeding with the independent samples t-test is justified.
+To check the normality of the variables Private home and Entire home/apt, histogram was used to assess that. Both histograms show a sharp drop at rating 1 (approximately 4,125 for Private room and 4,159 for Entire home/apt), while ratings 2 through 5 display relatively balanced frequencies ranging from approximately 10,400 to 10,600, indicating approximately normal distributions with no severe skewness. Given the large sample size of 46,149 observations per group, the normality assumption is considered met for both groups, and proceeding with the independent samples t-test is justified.
 
 ![Excel t-test output table](https://github.com/Emma-the-Analyst/Airbnb-Room-Type-Guest-Satisfaction-An-Independent-Samples-T-Test-Analysis/blob/main/IMAGES/NORMALITY%20TEST%20REAL.png?raw=true)
 ### c. Hypothesis Statement
