@@ -196,7 +196,7 @@ There is a **statistically significant difference** in the mean customer satisfa
 
 The test was conducted using the Data Analysis Toolpak in Microsoft Excel, and the result is shown below:
 
-![Excel t-test output table](..........)
+![Excel t-test output table](https://github.com/Emma-the-Analyst/Airbnb-Room-Type-Guest-Satisfaction-An-Independent-Samples-T-Test-Analysis/blob/main/IMAGES/REAL%20RESULT.png?raw=true)
 
 The independent samples t-test revealed mean satisfaction scores of 3.281 for Private rooms and 3.278 for Entire home/apt listings, with a difference of only 0.003. With a t-statistic of 0.369, degrees of freedom of 92,295, and a two-tailed p-value of 0.712 (far exceeding the 0.05 significance level), we fail to reject the null hypothesis, confirming no statistically significant difference in customer satisfaction between the two room types.
 
