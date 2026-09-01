@@ -170,12 +170,13 @@ There is a **statistically significant difference** in the mean customer satisfa
 
 **Mathematical Form:** H₁: μ₁ ≠ μ₂
 
+### d. Decision Rule
 | If | Then |
 |---|---|
 | p-value < 0.05 | Reject H₀ → Significant difference exists |
 | p-value ≥ 0.05 | Fail to reject H₀ → No significant difference |
 
-### d. Decision Rule
+### OR
 
 | If | Then |
 |---|---|
