@@ -128,13 +128,19 @@ Duplicates were removed to ensure the independence of observations.
 **Data Type Check**
 After removing null values, each column was reviewed to ensure the correct data type was applied, as improper data types could lead to errors in analysis.
 
+**Transformation**
+Review rate number was classified under the room type (**Private_Room** and **Entire_Home/Apt**). After the classification, some rows appeared null under the new columns created. This is because each customer makes one review at a time for either Private room or Entire home/Apt. All the nulls were replaced with '0'. Ratings (1–5) for both categories were copied to be sampled.
+
+**The picture below shows the result of the entire cleaning and transformation process using power query in excel**
+
+![Box and whisker plot showing no outliers in review rate number](..........)
+
 **Outlier Check**
 Review rate number column was checked for outliers using a box and whisker plot. No outlier was observed.
 
 ![Box and whisker plot showing no outliers in review rate number](..........)
 
-**Transformation**
-Review rate number was classified under the room type (**Private_Room** and **Entire_Home/Apt**). After the classification, some rows appeared null under the new columns created. This is because each customer makes one review at a time for either Private room or Entire home/Apt. All the nulls were replaced with '0'. Ratings (1–5) for both categories were copied to be sampled.
+
 
 **Sampling**
 After the transformation, **Private room** category had 46,149 total rows while **Entire room/apt category** had 53,274 total rows. The first 46,149 rows from each category was selected for the test. More data points were selected for the test to ensure the result of the test reflects the true population and also makes the results more robust.
