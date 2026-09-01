@@ -138,7 +138,7 @@ Review rate number was classified under the room type (**Private_Room** and **En
 **Outlier Check**
 Review rate number column was checked for outliers using a box and whisker plot. No outlier was observed.
 
-![Box and whisker plot showing no outliers in review rate number](..........)
+![Box and whisker plot showing no outliers in review rate number](https://github.com/Emma-the-Analyst/Airbnb-Room-Type-Guest-Satisfaction-An-Independent-Samples-T-Test-Analysis/blob/main/IMAGES/new%20outlier%20detection.png?raw=true)
 
 
 
